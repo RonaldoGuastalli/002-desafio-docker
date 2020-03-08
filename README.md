@@ -25,7 +25,7 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 A imagem gerada possui 1.47MB, sem o uso de multi-stage a imagem seria de 371MB.
 https://hub.docker.com/repository/docker/guastalli31/desafio-golang
 
-![Screenshot](/Users/ronaldoguastalli/Downloads/Captura de Tela 2020-03-08 às 07.02.55.png)
+<img width="698" alt="Captura de Tela 2020-03-08 às 07 02 55" src="https://user-images.githubusercontent.com/13247216/76160851-6f1e9b00-610c-11ea-8668-1c85653b8b34.png">
 
 
 
