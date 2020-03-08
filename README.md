@@ -21,4 +21,11 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
 
+## 4. Imagem no dockerehub
+A imagem gerada possui 1.47MB, sem o uso de multi-stage a imagem seria de 371MB.
+https://hub.docker.com/repository/docker/guastalli31/desafio-golang
+
+![Screenshot](/Users/ronaldoguastalli/Downloads/Captura de Tela 2020-03-08 às 07.02.55.png)
+
+
 
